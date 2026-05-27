@@ -216,3 +216,35 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# macOS system files
+.DS_Store
+
+# VS Code temporary files
+.history/
+
+# Local screenshots cache
+screenshots/.DS_Store
+
+# Temporary automation outputs
+output/
+temp/
+tmp/
+
+# Generated logs
+logs/
+*.log
+
+# CSV exports
+exports/
+
+# Large ML model files
+*.h5
+*.pt
+*.pth
+*.ckpt
+
+# macOS metadata
+.AppleDouble
+.LSOverride
+._*
