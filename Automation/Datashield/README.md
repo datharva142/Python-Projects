@@ -17,8 +17,6 @@ Datashield/
 ├── DataShield.py
 ├── sendmail.py
 ├── requirements.txt
-├── .env.example
-├── .gitignore
 └── Data/
 ```
 
