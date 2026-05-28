@@ -1,0 +1,4 @@
+1. Run the backup script.
+2. Confirm that Backup/ is created.
+3. Confirm that a Backup-YYYY-MM-DD_HH-MM-SS.zip file is created.
+4. Modify one file and run again to test changed-file detection.

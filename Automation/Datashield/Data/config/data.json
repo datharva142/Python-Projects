@@ -1,0 +1,5 @@
+{
+  "app": "Data Shield Demo",
+  "backup_enabled": true,
+  "retention_days": 7
+}   
