@@ -69,3 +69,7 @@ Show usage:
 ```bash
 python3 DataShield.py --u
 ```
+
+## Notes
+
+- Press `Ctrl + C` to stop the running scheduler.
