@@ -36,6 +36,7 @@ Some versions of the dataset may contain an extra column named `Unnamed: 0`, whi
 ## Dataset Preview
 
 ![Dataset Preview](Screenshots/Dataset_Preview.png)
+![Actual vs Predicted](Screenshots/Actual_vs_Predicted.png)
 
 ---
 
@@ -115,6 +116,6 @@ Advertising-Sales-Prediction/
 │   ├── Dataset_Preview.png
 │   ├── Actual_vs_Predicted.png
 │
-├── main.py
+├── advertising_sales_prediction.py
 ├── README.md
 └── requirements.txt
