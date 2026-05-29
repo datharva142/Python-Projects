@@ -183,7 +183,6 @@ def advertising_sales_prediction(DataPath):
     plt.ylabel("Predicted Sales")
     plt.title("Actual sales VS Predicted sales")
     plt.grid(True)
-    plt.savefig("Screenshots/Actual_vs_Predicted.png")
     plt.show()
 
 def main():
