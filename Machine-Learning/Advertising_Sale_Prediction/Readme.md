@@ -36,6 +36,8 @@ Some versions of the dataset may contain an extra column named `Unnamed: 0`, whi
 ## Dataset Preview
 
 ![Dataset Preview](Screenshots/Dataset_Preview.png)
+
+## Actual vs Predicted Sales
 ![Actual vs Predicted](Screenshots/Actual_vs_Predicted.png)
 
 ---
