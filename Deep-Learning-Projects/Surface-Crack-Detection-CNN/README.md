@@ -187,17 +187,21 @@ Incorrect Predictions : 11
 
 # 📸 Results & Visualizations
 
-### Training Accuracy and Loss
+### Sample Training Images
 
-![Training Curves](Screenshots/Training_Loss_Accuracy.png)
+![Sample Training Images](Screenshots/Sample_Training_Images.png)
 
-### Confusion Matrix
+### Training Accuracy
 
-![Confusion Matrix](Screenshots/Confusion_Matrix.png)
+![Training Accuracy](Screenshots/Training_Validation_Accuracy.png)
 
-### Sample Prediction
+### Training Loss
 
-![Sample Prediction](Screenshots/Sample_Prediction.png)
+![Training Loss](Screenshots/Training_Validation_Loss.png)
+
+### Single Image Prediction
+
+![Single Image Prediction](Screenshots/Single_Image_Prediction.png)
 
 ---
 
