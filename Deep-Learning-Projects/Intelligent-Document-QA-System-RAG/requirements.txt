@@ -1,0 +1,10 @@
+streamlit
+PyPDF2
+faiss-cpu
+numpy
+requests
+sentence-transformers
+transformers
+huggingface-hub>=0.34.0,<1.0
+tf-keras
+torch
