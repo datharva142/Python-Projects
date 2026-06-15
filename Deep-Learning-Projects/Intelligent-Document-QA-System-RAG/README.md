@@ -154,19 +154,19 @@ to generate the final answer.
 
 ### PDF Upload Interface
 
-![PDF Upload](Screenshots/PDF_Upload.png)
+![PDF Upload](ScreenShots/PDF_Upload.png)
 
 ### Retrieved Context
 
-![Retrieved Context](Screenshots/Retrieved_Context.png)
+![Retrieved Context](ScreenShots/Retrieved_Context.png)
 
 ### Generated Answer
 
-![Generated Answer](Screenshots/Generated_Answer.png)
+![Generated Answer](ScreenShots/Generated_Answer.png)
 
 ### Project Flow
 
-![Project Flow](Screenshots/Project_Flow.png)
+![Project Flow](ScreenShots/Project_Flow.png)
 
 ---
 
